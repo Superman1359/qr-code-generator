@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.inp{
+  display: block;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.qrcode{
+  margin-top: 5rem;
+}
